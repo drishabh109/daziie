@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/daziie/static/css/main.c81d9853.css",
+    "main.js": "/daziie/static/js/main.83f0a6bf.js",
+    "static/media/customer.svg": "/daziie/static/media/customer.615f68abf48ef2195c904d03d7b421bd.svg",
+    "index.html": "/daziie/index.html",
+    "static/media/SEARCH.svg": "/daziie/static/media/SEARCH.549e671f643962e52225dd3f26fe9fa0.svg",
+    "static/media/filter.svg": "/daziie/static/media/filter.d5066f0a0b6408c229160ff7c1043a83.svg",
+    "static/media/threedots.svg": "/daziie/static/media/threedots.4a2e7347851ebe9cf1baef9c43de75b6.svg",
+    "static/media/Package.svg": "/daziie/static/media/Package.acabd514a775d975045f9428f3f4a105.svg",
+    "main.c81d9853.css.map": "/daziie/static/css/main.c81d9853.css.map",
+    "main.83f0a6bf.js.map": "/daziie/static/js/main.83f0a6bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c81d9853.css",
+    "static/js/main.83f0a6bf.js"
+  ]
+}
